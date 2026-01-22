@@ -5,7 +5,7 @@
 黒いキューブまで行けばクリアです。
 落ちないよう頑張ってください。
 
-![画面イメージ](docs/images/game_image01.png)
+<img width="1097" height="439" alt="スクリーンショット 2026-01-22 100402" src="https://github.com/user-attachments/assets/8dc356f3-04bc-4915-891a-c25c86920205" />
 
 ## 操作説明
 
